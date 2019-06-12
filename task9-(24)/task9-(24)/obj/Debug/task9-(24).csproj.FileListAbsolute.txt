@@ -1,0 +1,6 @@
+C:\Users\Z\Desktop\task9-(24)\task9-(24)\bin\Debug\task9-(24).exe.config
+C:\Users\Z\Desktop\task9-(24)\task9-(24)\bin\Debug\task9-(24).exe
+C:\Users\Z\Desktop\task9-(24)\task9-(24)\bin\Debug\task9-(24).pdb
+C:\Users\Z\Desktop\task9-(24)\task9-(24)\obj\Debug\task9-(24).csprojResolveAssemblyReference.cache
+C:\Users\Z\Desktop\task9-(24)\task9-(24)\obj\Debug\task9-(24).exe
+C:\Users\Z\Desktop\task9-(24)\task9-(24)\obj\Debug\task9-(24).pdb
